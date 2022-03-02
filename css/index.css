@@ -1,0 +1,33 @@
+.head{
+    min-height: 25vh;
+    min-width: 100vw;
+    background: #3d5a80;
+    
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.flex-evenly{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+margin-top: 5rem;
+}
+
+.main-h1{
+    font-size: 60px;
+}
+
+/* ---------------------------------- */
+.body{
+    margin-top: 5rem;
+}
+
+.left-body{
+    max-width: 40%;
+}
